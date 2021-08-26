@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://gypsyrobot.github.io/reactjs-task-manager/static/css/main.01e58550.chunk.css",
+    "main.js": "https://gypsyrobot.github.io/reactjs-task-manager/static/js/main.79078eb6.chunk.js",
+    "main.js.map": "https://gypsyrobot.github.io/reactjs-task-manager/static/js/main.79078eb6.chunk.js.map",
+    "runtime~main.js": "https://gypsyrobot.github.io/reactjs-task-manager/static/js/runtime~main.29ace4c0.js",
+    "runtime~main.js.map": "https://gypsyrobot.github.io/reactjs-task-manager/static/js/runtime~main.29ace4c0.js.map",
+    "static/js/2.6bcc59eb.chunk.js": "https://gypsyrobot.github.io/reactjs-task-manager/static/js/2.6bcc59eb.chunk.js",
+    "static/js/2.6bcc59eb.chunk.js.map": "https://gypsyrobot.github.io/reactjs-task-manager/static/js/2.6bcc59eb.chunk.js.map",
+    "index.html": "https://gypsyrobot.github.io/reactjs-task-manager/index.html",
+    "precache-manifest.6355bfe9dfea93dab934e0317f934b3a.js": "https://gypsyrobot.github.io/reactjs-task-manager/precache-manifest.6355bfe9dfea93dab934e0317f934b3a.js",
+    "service-worker.js": "https://gypsyrobot.github.io/reactjs-task-manager/service-worker.js",
+    "static/css/main.01e58550.chunk.css.map": "https://gypsyrobot.github.io/reactjs-task-manager/static/css/main.01e58550.chunk.css.map"
+  }
+}
